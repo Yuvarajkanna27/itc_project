@@ -1,0 +1,49 @@
+.para{
+    text-align: justify;
+}
+.brandtitle{
+    text-align: center;
+    font-family: 'Garamond';
+}
+.brandhotel{
+    justify-content: center;
+}
+
+/* .bottomcarousel{
+    border: 2px solid;
+    border-width: thin;
+    border-radius: 0 20px 20px 0px;
+    margin: 0 0 0 150px;
+} */
+.secoundcarousel{
+    position: relative;
+}
+.para{
+    width: 60%;
+    text-align: justify;
+}
+.now{
+    border: 2px solid;
+    border-width: thin;
+    border-radius: 15px;
+    width: 20%;
+    padding: 7px 15px 7px 30px;
+    margin: 0 20px 0 200px;
+}
+.bottomcarousel1{
+    margin: 100px 0 0 0;
+}
+.homelist{
+    list-style: none;
+}
+.homelist1{
+    padding-left: 400px;
+}
+
+
+
+
+
+    
+
+
